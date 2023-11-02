@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?q=java+developer+banner&sca_esv=578828967&rlz=1C1ONGR_enPK1073PK1073&tbm=isch&sxsrf=AM9HkKnWJeqVnD2OgRhYzrRj76L4deuhJQ:1698936975836&source=lnms&sa=X&ved=2ahUKEwiyz8K3yaWCAxUQVvEDHWMEBZYQ_AUoAXoECAUQAw#imgrc=kXLlpYV1duOGQM&imgdii=rD_wWpf8KW3j9M)](https://github.com/DarshanParhyar)
+
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">A Passionate Aspiring Java Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3b6ac7ffce4ad464299706cc72944505ebddf31912e2d3af4d996858e2915d37/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067">
